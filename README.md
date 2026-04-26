@@ -6,4 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/abubakar267/leetCode-practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/abubakar267/leetCode-practice/tree/master/0183-customers-who-never-order) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abubakar267/leetCode-practice/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abubakar267/leetCode-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abubakar267/leetCode-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
